@@ -25,7 +25,7 @@ date_format: January 2, 2006
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/XHFF9VRK6RJ7
   date_end: "2017-01-05"
-  date_start: "2016-15-12"
+  date_start: "2016-12-12"
   description: "This is a test"
   organization: Coursera
   organization_url: https://www.coursera.org
@@ -33,7 +33,7 @@ item:
   url: "https://www.coursera.org/learn/machine-learning"
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/9G9WWMS84QYA
   date_end: "2017-01-05"
-  date_start: "2017-15-01"
+  date_start: "2017-12-01"
   description: "This is a test"
   organization: Coursera
   organization_url: https://www.coursera.org
