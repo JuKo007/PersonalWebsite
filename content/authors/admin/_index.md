@@ -23,8 +23,9 @@ interests:
 - Computational Social Science
 - Interpersonal Relationships
 - Data Science
+- Text as Data
 - Group Dynamics
-
+- Social Networks
 
 # Education to show in About widget
 education:
@@ -32,6 +33,9 @@ education:
   - course: PhD in Psychology
     institution: Ulm University
     year: since 2020
+  - course: Scientific Advisor for Digital Behabvioral Data
+    instiution: GESIS
+    year: since 2017
   - course: M.Sc in Social & Organizational Psychology
     institution: University of Groningen
     year: 2016
