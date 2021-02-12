@@ -30,11 +30,11 @@ feature:
   name: Statistics
 - description: Advanced
   icon: star
-  icon_pack: fab
+  icon_pack: far
   name: Shiny
 - description: Enthusiast
   icon: robot
-  icon_pack: fab
+  icon_pack: fas
   name: Machine Learning
 - description: Enthusiast
   icon: github-square
