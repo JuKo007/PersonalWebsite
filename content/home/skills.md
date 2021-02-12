@@ -26,7 +26,7 @@ feature:
   name: R
 - description: Advanced
   icon: chart-line
-  icon_pack: fab
+  icon_pack: fas
   name: Statistics
 - description: Advanced
   icon: lightbulb-on
@@ -40,10 +40,6 @@ feature:
   icon: github-square
   icon_pack: fab
   name: Git
-- description: Basic
-  icon: linux
-  icon_pack: fab
-  name: Linux
 
 
 # Uncomment to use emoji icons.
