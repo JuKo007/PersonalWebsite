@@ -17,33 +17,34 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Expert
+  icon: user-graduate
+  icon_pack: fas
+  name: Social Psychology
+- description: Expert
   icon: r-project
   icon_pack: fab
   name: R
 - description: Advanced
   icon: chart-line
-  icon_pack: fas
+  icon_pack: fab
   name: Statistics
-- description: Enthusiast
-  icon: theta
-  icon_pack: fas
-  name: Machine Learning
 - description: Advanced
   icon: lightbulb-on
-  icon_pack: fas
+  icon_pack: fab
   name: Shiny
-- description: Proficient
-  icon: github
-  icon_pack: fas
-  name: Git
 - description: Enthusiast
+  icon: theta
+  icon_pack: fab
+  name: Machine Learning
+- description: Enthusiast
+  icon: github-square
+  icon_pack: fab
+  name: Git
+- description: Basic
   icon: linux
-  icon_pack: fas
+  icon_pack: fab
   name: Linux
-- description: 10%
-  icon: user-graduate
-  icon_pack: fas
-  name: Social Psychology
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
