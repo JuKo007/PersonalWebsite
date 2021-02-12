@@ -11,12 +11,12 @@ role: Scientific Advisor / PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: GESIS
-  url: https://www.gesis.org/home
+  url: https://www.gesis.org/en/institute/staff/person/Julian.Kohne
 - name: Ulm University
   url: https://www.uni-ulm.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in everything at the intersection of Social Psychology with Data Science.
+bio: Doing research at the intersection of Social Psychology with Data Science.
 
 # Interests to show in About widget
 interests:
@@ -33,8 +33,8 @@ education:
   - course: PhD in Psychology
     institution: Ulm University
     year: since 2020
-  - course: Scientific Advisor for Digital Behabvioral Data
-    instiution: GESIS
+  - course: Scientific Adviser for Digital Behavioral Data
+    institution: GESIS
     year: since 2017
   - course: M.Sc in Social & Organizational Psychology
     institution: University of Groningen
