@@ -29,11 +29,11 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: Advanced
-  icon: lightbulb-on
+  icon: star
   icon_pack: fab
   name: Shiny
 - description: Enthusiast
-  icon: theta
+  icon: robot
   icon_pack: fab
   name: Machine Learning
 - description: Enthusiast
