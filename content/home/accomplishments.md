@@ -26,8 +26,11 @@ item:
 - certificate_url:
   date_end: "2018-09-16"
   date_start: "2019-09-18"
-  description: "The Python Data Science Stack; Data Exploration and Preprocessing;
-  Web Data Acquisition; Data visualization; Machine Learning"
+  description: |2- "The Python Data Science Stack
+  Data Exploration and Preprocessing
+  Web Data Acquisition
+  Data visualization
+  Machine Learning"
   organization: GESIS
   organization_url: https://www.gesis.org/
   title: Big Data - Introduction to Data Science with Python
@@ -36,7 +39,9 @@ item:
 - certificate_url:
   date_end: "2018-04-15"
   date_start: "2019-04-15"
-  description: "Introduction to R Markdown; Writing scienctific papers in R Markdown; Citations in R Markdown"
+  description: |2- "Introduction to R Markdown
+  Writing scienctific papers in R Markdown
+  Citations in R Markdown"
   organization: GESIS
   organization_url: https://www.gesis.org/
   title: An Introduction to R Markdown
@@ -45,7 +50,11 @@ item:
 - certificate_url:
   date_end: "2018-11-22"
   date_start: "2018-11-23"
-  description: "Bibliographies; Tables; Equations; LaTeX with R and Stata; LaTeX for posters and presentations"
+  description: |2- "Bibliographies
+  Tables
+  Equations
+  LaTeX with R and Stata
+  LaTeX for posters and presentations"
   organization: GESIS
   organization_url: https://www.gesis.org/
   title: LaTeX
@@ -54,7 +63,12 @@ item:
 - certificate_url:
   date_end: "2018-04-18"
   date_start: "2018-04-19"
-  description: "Computer-assisted text coding; metadata evaluation; Linguistic preprocessing; Lexicometrics; Topic Models; Methodological Integration"
+  description: |2- "Computer-assisted text coding
+  metadata evaluation
+  Linguistic preprocessing
+  Lexicometrics
+  Topic Models
+  Methodological Integration"
   organization: GESIS
   organization_url: https://www.gesis.org/
   title: Practical Introduction to Text Mining
