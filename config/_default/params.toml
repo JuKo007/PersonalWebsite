@@ -93,12 +93,7 @@ phone = "+49 (0221) 47694-222"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "",
-           city = "",
-           region = "",
-           postcode = "",
-           country = "",
-           country_code = ""}
+address = {street = "",city = "",region = "",postcode = "",country = "",country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
