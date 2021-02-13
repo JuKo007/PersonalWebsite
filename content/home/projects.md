@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: ''
+title: My Research
+subtitle: ' and other projects'
 
 content:
   # Page type to display. E.g. project.
@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Publications
+    tag: Publications
+  - name: Teaching
+    tag: Teaching
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
