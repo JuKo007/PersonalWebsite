@@ -25,8 +25,6 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
   - name: Publications
     tag: Publications
   - name: Teaching
@@ -35,10 +33,6 @@ content:
     tag: Data/Software
   - name: Conference Contributions
     tag: Conference Contributions
-  - name: Posters
-    tag: Posters
-  - name: Talks
-    tag: Talks
   - name: Other
     tag: Other
 
