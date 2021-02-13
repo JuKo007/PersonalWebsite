@@ -88,23 +88,28 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "juliankohne[at]gesis.org"
+email = "julian.kohne[at]gesis.org"
 phone = "+49 (0221) 47694-222"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Unter Sachsenhausen 6-8", city = "Cologne", region = "Northrhine Westphalia", postcode = "50667", country = "Germany", country_code = "DE"}
+address = {street = "",
+           city = "",
+           region = "",
+           postcode = "",
+           country = "",
+           country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "50.942549447561134", longitude = "6.952483814553604"}
 
 # Directions for visitors to locate you.
-directions = "Enter the building at the crossing of 'Tunisstraße' and 'Unter Sachsenhausen' and go to the porters at the right side of the entrance."
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday -Friday 09:00 to 17:00"]
+office_hours = [""]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -213,7 +218,7 @@ plugins_js  = []
   provider = ""
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = false, post = false, docs = false, project = false, publication = false, talk = false}
 
   # Configuration of Disqus.
   [comments.disqus]
@@ -261,7 +266,7 @@ plugins_js  = []
   #   "google": Google Maps
   #   "mapnik": OpenStreetMap (Mapnik)
   #   "mapbox": OpenStreetMap (Mapbox)
-  provider = "mapnik"
+  provider = ""
   api_key = ""
   zoom = 15
 
