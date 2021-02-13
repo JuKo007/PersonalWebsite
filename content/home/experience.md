@@ -34,7 +34,7 @@ experience:
   - title: Scientific Advisor for Digial Behavioral Data
     company: GESIS
     company_url: 'https://www.gesis.org/en/institute/digital-behavioral-data'
-    location: Groningen
+    location: Cologne
     date_start: '2017-10-01'
     date_end: ''
     description: |2-
