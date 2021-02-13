@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Certificates'
-subtitle:
+subtitle: and professional development
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -23,6 +23,43 @@ date_format: January 2, 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url:
+  date_end: "2018-09-16"
+  date_start: "2019-09-18"
+  description: "The Python Data Science Stack; Data Exploration and Preprocessing;
+  Web Data Acquisition; Data visualization; Machine Learning"
+  organization: GESIS
+  organization_url: https://www.gesis.org/
+  title: Big Data: Introduction to Data Science with Python
+  url: "https://www.gesis.org/gesis-training/home"
+
+- certificate_url:
+  date_end: "2018-04-15"
+  date_start: "2019-04-15"
+  description: "Introduction to R Markdown; Writing scienctific papers in R Markdown; Citations in R Markdown"
+  organization: GESIS
+  organization_url: https://www.gesis.org/
+  title: An Introduction to R Markdown
+  url: "https://www.gesis.org/gesis-training/home"
+
+- certificate_url:
+  date_end: "2018-11-22"
+  date_start: "2018-11-23"
+  description: "Bibliographies; Tables; Equations; LaTeX with R and Stata; LaTeX for posters and presentations"
+  organization: GESIS
+  organization_url: https://www.gesis.org/
+  title: LaTeX
+  url: "https://www.gesis.org/gesis-training/home"
+
+- certificate_url:
+  date_end: "2018-04-18"
+  date_start: "2018-04-19"
+  description: "Computer-assisted text coding; metadata evaluation; Linguistic preprocessing; Lexicometrics; Topic Models; Methodological Integration"
+  organization: GESIS
+  organization_url: https://www.gesis.org/
+  title: Practical Introduction to Text Mining
+  url: "https://www.gesis.org/gesis-training/home"
+
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/XHFF9VRK6RJ7
   date_end: "2017-01-05"
   date_start: "2016-12-12"
@@ -31,6 +68,7 @@ item:
   organization_url: https://www.coursera.org
   title: Machine Learning
   url: "https://www.coursera.org/learn/machine-learning"
+  
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/9G9WWMS84QYA
   date_end: "2017-01-05"
   date_start: "2017-12-01"
