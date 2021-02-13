@@ -31,6 +31,16 @@ content:
     tag: Publications
   - name: Teaching
     tag: Teaching
+  - name: Data/Software
+    tag: Data/Software
+  - name: Conference Contributions
+    tag: Conference Contributions
+  - name: Posters
+    tag: Posters
+  - name: Talks
+    tag: Talks
+  - name: Other
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
