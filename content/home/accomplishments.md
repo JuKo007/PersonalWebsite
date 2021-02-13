@@ -30,7 +30,7 @@ item:
   Web Data Acquisition; Data visualization; Machine Learning"
   organization: GESIS
   organization_url: https://www.gesis.org/
-  title: Big Data: Introduction to Data Science with Python
+  title: Big Data - Introduction to Data Science with Python
   url: "https://www.gesis.org/gesis-training/home"
 
 - certificate_url:
