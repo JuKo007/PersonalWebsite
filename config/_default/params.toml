@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "juliankohne@gesis.org"
+email = "juliankohne[at]gesis.org"
 phone = "+49 (0221) 47694-222"
 
 # Address
