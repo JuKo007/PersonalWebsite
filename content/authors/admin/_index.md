@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: Ulm University
-    year: since 2020
+    year: in progress
   - course: M.Sc in Social & Organizational Psychology
     institution: University of Groningen
     year: 2016
