@@ -41,7 +41,7 @@ summary: In this chapter, we present an agent-based model that simulates the ado
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
