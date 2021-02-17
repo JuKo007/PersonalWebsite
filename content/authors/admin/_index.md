@@ -79,4 +79,4 @@ As a scientific advisor at GESIS, I am coordinating our efforts to establish new
 
 As a PhD student at Ulm University, I am part of the [molecular psychology lab](https://www.uni-ulm.de/in/psy-mp/) and investigate how interpersonal relationships can be quantified using chat logs, specifically donated WhatsApp chat logs. I am developing interactive methods for transparent, ethical and secure data donation, and investigate how social relationships are expressed through different communication patterns. The project is conducted in collaboration with the [Stanford Social Media Lab](https://sml.stanford.edu/)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Julian_Kohne_CV_Feb_2021.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

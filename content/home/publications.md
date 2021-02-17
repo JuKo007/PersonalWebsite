@@ -26,7 +26,7 @@ content:
     tag: ''
     category: ''
     publication_type: ''
-    author: ''
+    author: 'admin'
     exclude_featured: false
 design:
   # Choose a view for the listings:
@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Search [all publications](./publication/).
 {{% /callout %}}
