@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 90
 
-title: My Research
-subtitle: 'and other projects'
+title: Recent Publications
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -27,7 +27,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: false
+    exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
