@@ -30,8 +30,8 @@ publishDate:
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In Computational Conflict Research, Springer International Publishing, Cham
+publication_short: In Computational Conflict Research
 
 abstract: Social norms can facilitate societal coexistence in groups by providing an implicitly shared set of expectations and behavioral guidelines. However, different social groups can hold different norms, and lacking an overarching normative consensus can lead to conflict within and between groups. In this chapter, we present an agent-based model that simulates the adoption of norms in two interacting groups. We explore this phenomenon while varying relative group sizes and homophily/heterophily (two features of network structure), and initial group norm distributions. Agents update their norm according to an adapted version of Granovetter's threshold model, using a uniform distribution of thresholds. We study the impact of network structure and initial norm distributions on the process of achieving normative consensus and the resulting potential for intragroup and intergroup conflict. Our results show that norm change is most likely when norms are strongly tied to group membership. Groups end up with the most similar norm distributions when networks are heterophilic, with small to middling minority groups. High homophilic networks show high potential intergroup conflict and low potential intragroup conflict, while the opposite pattern emerges for high heterophilic networks.
 
@@ -76,7 +76,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
