@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.juliankohne.com/publication/NormativeConflict/example.pdf'
 url_code: 'https://github.com/gesiscss/SimulatingNormativeConflict'
 url_dataset: ''
 url_poster: ''
