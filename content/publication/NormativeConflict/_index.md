@@ -14,11 +14,11 @@ authors:
 
 
 # Author notes (optional)
-author_notes:
+author_notes: ""
 
 
 date: "2020-03-01T00:00:00Z"
-doi: ""
+doi: "10.1007/978-3-030-29333-8_6"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 
