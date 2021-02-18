@@ -52,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.juliankohne.org/publications/example/Kohne2020_Chapter_TheRoleOfNetworkStructureAndIn.pdf'
+url_pdf: 'https://www.juliankohne.com/publications/example/Kohne2020_Chapter_TheRoleOfNetworkStructureAndIn.pdf'
 url_code: 'https://github.com/gesiscss/SimulatingNormativeConflict'
 url_dataset: ''
 url_poster: ''
