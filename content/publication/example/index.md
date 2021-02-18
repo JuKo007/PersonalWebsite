@@ -7,14 +7,17 @@ title: "The Role of Network Structure and Initial Group Norm Distributions in No
 authors:
 - admin
 - Nathalie Gallagher
+- Zeynep Melis Kirgis
+- Rocco Paolillo
+- Lars Padmos
+- Fariba Karimi
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "test"
 
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "10.1007/978-3-030-29333-8_6"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,16 +26,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In Computational Conflict Research, Springer International Publishing
+publication_short: In Computational Conflict Research
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Social norms can facilitate societal coexistence in groups by providing an implicitly shared set of expectations and behavioral guidelines. However, different social groups can hold different norms, and lacking an overarching normative consensus can lead to conflict within and between groups. In this chapter, we present an agent-based model that simulates the adoption of norms in two interacting groups. We explore this phenomenon while varying relative group sizes and homophily/heterophily (two features of network structure), and initial group norm distributions. Agents update their norm according to an adapted version of Granovetter's threshold model, using a uniform distribution of thresholds. We study the impact of network structure and initial norm distributions on the process of achieving normative consensus and the resulting potential for intragroup and intergroup conflict. Our results show that norm change is most likely when norms are strongly tied to group membership. Groups end up with the most similar norm distributions when networks are heterophilic, with small to middling minority groups. High homophilic networks show high potential intergroup conflict and low potential intragroup conflict, while the opposite pattern emerges for high heterophilic networks.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this chapter, we present an agent-based model that simulates the adoption of norms in two interacting groups. We explore this phenomenon while varying relative group sizes and homophily/heterophily (two features of network structure), and initial group norm distributions.
 
 tags: []
 
@@ -44,8 +47,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://www.juliankohne.org/publications/example/Kohne2020_Chapter_TheRoleOfNetworkStructureAndIn.pdf'
+url_code: 'https://github.com/gesiscss/SimulatingNormativeConflict'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -75,13 +78,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
