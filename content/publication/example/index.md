@@ -1,12 +1,12 @@
 ---
-title: "An example conference paper"
+title: "The Role of Network Structure and Initial Group Norm Distributions in Norm Conflict"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Nathalie Gallagher
 
 # Author notes (optional)
 author_notes:
