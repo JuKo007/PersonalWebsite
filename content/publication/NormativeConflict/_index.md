@@ -38,7 +38,7 @@ abstract: Social norms can facilitate societal coexistence in groups by providin
 # Summary. An optional shortened abstract.
 summary: In this chapter, we present an agent-based model that simulates the adoption of norms in two interacting groups. We explore this phenomenon while varying relative group sizes and homophily/heterophily (two features of network structure), and initial group norm distributions. Agents update their norm according to an adapted version of Granovetter's threshold model, using a uniform distribution of thresholds.
 
-tags: []
+tags: [test]
 
 # Display this page in the Featured widget?
 featured: false

@@ -23,11 +23,11 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
+    tag: 'test'
     category: ''
     publication_type: ''
-    author: 'admin'
-    exclude_featured: false
+    author: ''
+    exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Search [all publications](./publication/).
+[Search publications](./publication/).
 {{% /callout %}}
