@@ -28,3 +28,5 @@ content:
 design:
   columns: '2'
 ---
+
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/JuuuuKoooo?ref_src=twsrc%5Etfw">Tweets by JuuuuKoooo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
