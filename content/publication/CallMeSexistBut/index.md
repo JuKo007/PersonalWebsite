@@ -52,7 +52,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://www.juliankohne.com/publication/CallMeSexistBut/Samory2021_CallMeSexistBut_preprint.pdf'
-url_code: 'https://github.com/gesiscss/'
+url_code: 'https://github.com/JuKo007/theory-driven-sexism-detection'
 url_dataset: ''
 url_poster: ''
 url_project: ''
