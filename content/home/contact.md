@@ -29,4 +29,4 @@ design:
   columns: '2'
 ---
 
-<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/JuuuuKoooo?ref_src=twsrc%5Etfw">Tweets by JuuuuKoooo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?button_hashtag=JuuuKooo&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-related="@JuuuuKoooo" data-lang="en" data-dnt="true" data-show-count="false">Tweet #JuuuKooo</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
