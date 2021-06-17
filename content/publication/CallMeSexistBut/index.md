@@ -21,7 +21,7 @@ author_notes:
 
 
 date: "2021-03-18T00:00:00Z"
-doi: "https://ojs.aaai.org/index.php/ICWSM/article/view/18085"
+doi: "https://doi.org/10.7802/2251"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-01T00:00:00Z"
@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.juliankohne.com/publication/CallMeSexistBut/Samory2021_CallMeSexistBut_preprint.pdf'
+url_pdf: 'https://www.juliankohne.com/publication/CallMeSexistBut/18085-Article_Text-21580-1-2-20210521.pdf'
 url_code: 'https://github.com/JuKo007/theory-driven-sexism-detection'
 url_dataset: 'https://www.da-ra.de/dara/study/web_show?res_id=771545&lang=en&mdlang=en&detail=true'
 url_poster: ''
