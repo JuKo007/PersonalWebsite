@@ -56,4 +56,7 @@ item:
    organization_url: https://www.gesis.org/
    title: Practical Introduction to Text Mining
    url: https://www.gesis.org/gesis-training/home
+- title: "Test"
+  organization: "test orga"
+  date_start: "2018-01-01"
 ---
