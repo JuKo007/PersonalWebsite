@@ -31,7 +31,7 @@ item:
    organization: Coursera
    organization_url: https://www.coursera.org
    title: Machine Learning
-   url: "https://www.coursera.org/learn/machine-learning"
+   url: https://www.coursera.org/learn/machine-learning
  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/9G9WWMS84QYA
    date_end: "2017-12-01"
    date_start: "2017-01-05"
@@ -55,5 +55,5 @@ item:
    organization: GESIS
    organization_url: https://www.gesis.org/
    title: Practical Introduction to Text Mining
-   url: "https://www.gesis.org/gesis-training/home"
+   url: https://www.gesis.org/gesis-training/home
 ---
