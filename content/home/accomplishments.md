@@ -32,6 +32,7 @@ item:
    certificate_url: https://www.coursera.org/account/accomplishments/certificate/XHFF9VRK6RJ7
    organization: Coursera
    organization_url: https://www.coursera.org
+   
 - title: The Data Scientists Toolbox
    date_start: "2017-01-05"
    date_end: "2017-12-01"
