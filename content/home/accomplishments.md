@@ -56,19 +56,4 @@ item:
    organization_url: https://www.gesis.org/
    title: Practical Introduction to Text Mining
    url: https://www.gesis.org/gesis-training/home
-- certificate_url: https://www.juliankohne.com/publication/IHK_certificate/IHK_certificate.pdf
-  date_end: "2021-06-30"
-  date_start: "2021-05-26"
-  description: |2-
-      Workshop Contents:
-
-      * Project Management according to DIN 69901
-      * Planning of costs and resources
-      * Types of project organization
-      * Working with specification sheets
-      * Time planning and management
-  organization: IHK Cologne
-  organization_url: https://www.ihk-koeln.de/219721
-  title: Project Manager (IHK)
-  url: "https://www.ihk-koeln.de/projektmanager_zertifikat_lehrgang.AxCMS"
 ---
