@@ -56,19 +56,19 @@ item:
    organization_url: https://www.gesis.org/
    title: Practical Introduction to Text Mining
    url: https://www.gesis.org/gesis-training/home
-- certificate_url: ""
-  date_end: "2018-09-18"
-  date_start: "2018-09-16"
+- certificate_url: https://www.juliankohne.com/publication/IHK_certificate/IHK_certificate.pdf
+  date_end: "2021-06-30"
+  date_start: "2021-05-26"
   description: |2-
       Workshop Contents:
 
-      * The Python Data Science Stack
-      * Data Exploration and Preprocessing
-      * Web Data Acquisition
-      * Data visualization
-      * Machine Learning
-  organization: GESIS
-  organization_url: https://www.gesis.org/
-  title: Big Data - Introduction to Data Science with Python
-  url: https://www.gesis.org/gesis-training/home
+      * Project Management according to DIN 69901
+      * Planning of costs and resources
+      * Types of project organization
+      * Working with specification sheets
+      * Time planning and management
+  organization: IHK Cologne
+  organization_url: https://www.ihk-koeln.de/219721
+  title: Project Manager (IHK)
+  url: "https://www.ihk-koeln.de/projektmanager_zertifikat_lehrgang.AxCMS"
 ---
