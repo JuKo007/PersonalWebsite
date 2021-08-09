@@ -22,14 +22,86 @@ date_format: January 2, 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-
 item:
- - title: Machine Learning
-   date_start: "2016-12-12"
-   date_end: "2017-01-05"
-   url: "https://www.coursera.org/learn/machine-learning"
-   description: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition.       Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural            networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best       practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw     from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart          robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database     mining, and other areas."
-   certificate_url: https://www.coursera.org/account/accomplishments/certificate/XHFF9VRK6RJ7
-   organization: Coursera
-   organization_url: https://www.coursera.org
+- certificate_url:
+  date_end: "2019-09-18"
+  date_start: "2018-09-16"
+  description: |2-
+      Workshop Contents:
+      
+      * The Python Data Science Stack
+      * Data Exploration and Preprocessing
+      * Web Data Acquisition
+      * Data visualization
+      * Machine Learning
+  organization: GESIS
+  organization_url: https://www.gesis.org/
+  title: Big Data - Introduction to Data Science with Python
+  url: "https://www.gesis.org/gesis-training/home"
+
+- certificate_url:
+  date_end: "2019-04-15"
+  date_start: "2018-04-15"
+  description: |2- 
+      Workshop Contents:
+      
+      * Introduction to R Markdown
+      * Writing scienctific papers in R Markdown
+      * Citations in R Markdown
+  organization: GESIS
+  organization_url: https://www.gesis.org/
+  title: An Introduction to R Markdown
+  url: "https://www.gesis.org/gesis-training/home"
+
+- certificate_url:
+  date_end: "2018-11-23"
+  date_start: "2018-11-22"
+  description: |2-
+      Workshop Contents:
+      
+      * Scientific Papers iun LaTeX
+      * Bibliographies
+      * Tables
+      * Equations
+      * LaTeX with R and Stata
+      * LaTeX for posters and presentations
+  organization: GESIS
+  organization_url: https://www.gesis.org/
+  title: LaTeX
+  url: "https://www.gesis.org/gesis-training/home"
+
+- certificate_url:
+  date_end: "2018-04-19"
+  date_start: "2018-04-18"
+  description: |2- 
+      Workshop Contents:
+          
+      * Computer-assisted text coding
+      * Metadata evaluation
+      * Linguistic preprocessing
+      * Lexicometrics
+      * Topic Models
+      * Methodological Integration
+  organization: GESIS
+  organization_url: https://www.gesis.org/
+  title: Practical Introduction to Text Mining
+  url: "https://www.gesis.org/gesis-training/home"
+
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/XHFF9VRK6RJ7
+  date_end: "2017-01-05"
+  date_start: "2016-12-12"
+  description: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas."
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Machine Learning
+  url: "https://www.coursera.org/learn/machine-learning"
+  
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/9G9WWMS84QYA
+  date_end: "2017-12-01"
+  date_start: "2017-01-05"
+  description: "In this course you will get an introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components to this course. The first is a conceptual introduction to the ideas behind turning data into actionable knowledge. The second is a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio."
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: The Data Scientists Toolbox
+  url: https://www.coursera.org/learn/data-scientists-tools
 ---
