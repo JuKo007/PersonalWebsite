@@ -25,7 +25,7 @@ date_format: January 2, 2006
 item:
 - certificate_url:
   date_end: "2019-09-18"
-  date_start: "2018-09-16"
+  date_start: "2019-09-16"
   description: |2-
       Workshop Contents:
       
@@ -40,7 +40,7 @@ item:
   url: "https://www.gesis.org/gesis-training/home"
 
 - certificate_url:
-  date_end: "2019-04-15"
+  date_end: "2018-04-15"
   date_start: "2018-04-15"
   description: |2- 
       Workshop Contents:
@@ -59,7 +59,7 @@ item:
   description: |2-
       Workshop Contents:
       
-      * Scientific Papers iun LaTeX
+      * Scientific Papers in LaTeX
       * Bibliographies
       * Tables
       * Equations
