@@ -29,11 +29,11 @@ item:
   description: |2-
       Workshop Contents:
       
-      * test
-      * test
-      * test
-      * test
-      * test
+      * Project management according to DIN 69901
+      * Types of project organization
+      * Cost and resource management
+      * Working with specification sheets
+      * Time management
   organization: IHK Cologne
   organization_url: https://www.ihk-koeln.de/219721
   title: Project Manager (IHK)
