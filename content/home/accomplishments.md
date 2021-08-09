@@ -40,12 +40,4 @@ item:
    certificate_url: https://www.coursera.org/account/accomplishments/certificate/9G9WWMS84QYA
    organization: Coursera
    organization_url: https://www.coursera.org
-- title:
-  date_start: ""
-  date_end: ""
-  url: ""
-  description:
-  certificate_url:
-  organization:
-  organization_url:
 ---
