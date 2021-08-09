@@ -119,4 +119,7 @@ item:
   organization_url: https://www.coursera.org
   title: The Data Scientists Toolbox
   url: https://www.coursera.org/learn/data-scientists-tools
+
+design:
+  columns: '2' 
 ---
