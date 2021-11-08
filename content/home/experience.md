@@ -29,7 +29,7 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        In my PhD project, I am investigating how interpersonal relationships can be quantified using         chat logs, specifically donated WhatsApp chat logs. I am developing interactive methods for           transparent, ethical and secure data donation, and investigate how social relationships are           expressed through different communication patterns. The project is conducted in collaboration         with the Stanford Social Media Lab
+        In my PhD project, I am investigating how interpersonal relationships can be quantified using         chat logs, specifically donated WhatsApp chat logs. I am developing interactive methods for           transparent, ethical and secure data donation, and investigate how social relationships are           expressed through different communication patterns.
 
   - title: Scientific Advisor for Digial Behavioral Data
     company: GESIS
