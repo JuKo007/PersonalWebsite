@@ -35,7 +35,7 @@ item:
       * Personal, anonymous and pseudonomous data
   organization: GESIS Cologne
   organization_url: https://www.gesis.org/
-  title: Project Manager (IHK)
+  title:  GDPR - Basics for dealing with research data 
   url: "https://www.gesis.org/gesis-training/home"
 - certificate_url: https://www.juliankohne.com/publication/IHK_certificate/IHK_certificate.pdf
   date_end: "2021-06-30"
@@ -50,7 +50,7 @@ item:
       * Time management
   organization: IHK Cologne
   organization_url: https://www.ihk-koeln.de/219721
-  title: GDPR - Basics for dealing with research data
+  title: Project Manager (IHK)
   url: "https://www.ihk-koeln.de/projektmanager_zertifikat_lehrgang.AxCMS"
 - certificate_url:
   date_end: "2019-09-18"
