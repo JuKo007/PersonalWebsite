@@ -23,6 +23,20 @@ date_format: January 2, 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://www.juliankohne.com/publication/DSGVOcertificate/DSGVOcertificate.pdf
+  date_end: "2021-12-01"
+  date_start: "2021-12-01"
+  description: |2-
+      Workshop Contents:
+      
+      * Overview of GPDR Guidelines
+      * Informed Consent
+      * Priviliges of Research Projects
+      * Personal, anonymous and pseudonomous data
+  organization: GESIS Cologne
+  organization_url: https://www.gesis.org/
+  title: Project Manager (IHK)
+  url: "https://www.gesis.org/gesis-training/home"
 - certificate_url: https://www.juliankohne.com/publication/IHK_certificate/IHK_certificate.pdf
   date_end: "2021-06-30"
   date_start: "2021-05-26"
@@ -36,7 +50,7 @@ item:
       * Time management
   organization: IHK Cologne
   organization_url: https://www.ihk-koeln.de/219721
-  title: Project Manager (IHK)
+  title: GDPR - Basics for dealing with research data
   url: "https://www.ihk-koeln.de/projektmanager_zertifikat_lehrgang.AxCMS"
 - certificate_url:
   date_end: "2019-09-18"
