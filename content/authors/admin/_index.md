@@ -60,7 +60,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/julian-kohne-19264b137/
-- icon: fa-orcid
+- icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-6710-7545
 
