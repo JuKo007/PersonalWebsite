@@ -6,12 +6,11 @@ title: "A Practical Guide to WhatsApp Data in Social Science Research"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Julian Kohne
-- Jon D. Elhai
+- Jon Elhai
 - Christian Montag
 
 # Author notes (optional)
 author_notes:
-
 
 date: "2022-07-23T00:00:00Z"
 doi: "10.1007/978-3-030-98546-2_11"
@@ -34,7 +33,7 @@ abstract: In this chapter, we will first give a brief overview of the mobile ins
 # Summary. An optional shortened abstract.
 summary: In this chapter, we give a practical overview about working with data from WhatsApp, specifically, donated WhatsApp chatlogs, to answer social science research questions.
 
-tags: ["WhatsApp","WhatsR","R-pacakge","Data Donation"]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
