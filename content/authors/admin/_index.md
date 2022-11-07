@@ -63,7 +63,7 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-6710-7545
-- icon: fa-mastodon
+- icon: mastodon
   icon_pack: fab
   link: https://toot.community/@JuKo
 
@@ -82,7 +82,7 @@ highlight_name: true
 ---
 
 At GESIS, I'm part of the [Designed Digital Data](https://www.gesis.org/en/institute/departments/computational-social-science) team, focusing on providing
-an easy to use, transparent and secure infrastructure for collecting smartphone app user data for social science research.
+an easy to use, transparent and secure infrastructure for collecting mobile survey and smartphone usage data for social science research.
 
 As a PhD student at Ulm University, I am part of the [molecular psychology lab](https://www.uni-ulm.de/in/psy-mp/) and investigate how interpersonal relationships can be quantified using chat logs, specifically donated WhatsApp chat logs. I am developing interactive methods for transparent data donation methods, and investigate how social relationships are expressed through different communication patterns.
 
