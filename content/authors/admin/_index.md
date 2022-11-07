@@ -6,7 +6,7 @@ title: Julian Kohne
 superuser: true
 
 # Role/position/tagline
-role: Scientific Advisor / PhD Student
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -63,6 +63,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-6710-7545
+- icon: fa-mastodon
+  icon_pack: fab
+  link: https://toot.community/@JuKo
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -78,8 +81,9 @@ email: ""
 highlight_name: true
 ---
 
-As a scientific advisor at GESIS, I am coordinating our efforts to establish new services for social scientists to collect, process, analyze, and get access to [digital behavioral data](https://www.gesis.org/en/institute/digital-behavioral-data). The term refers to all traces of human behavior that are created or can be made accessible through the use of digital technologies. This includes for example data from social media, webtracking, smartphones, contact sensors or other smart devices. In combination with high quality survey data, these types of data allow us to study the digitization of society, new digital phenomena, and established social science questions from new perspectives!
+At GESIS, I'm part of the [Designed Digital Data](https://www.gesis.org/en/institute/departments/computational-social-science) team, focusing on providing
+an easy to use, transparent and secure infrastructure for collecting smartphone app user data for social science research.
 
-As a PhD student at Ulm University, I am part of the [molecular psychology lab](https://www.uni-ulm.de/in/psy-mp/) and investigate how interpersonal relationships can be quantified using chat logs, specifically donated WhatsApp chat logs. I am developing interactive methods for transparent, ethical and secure data donation, and investigate how social relationships are expressed through different communication patterns.
+As a PhD student at Ulm University, I am part of the [molecular psychology lab](https://www.uni-ulm.de/in/psy-mp/) and investigate how interpersonal relationships can be quantified using chat logs, specifically donated WhatsApp chat logs. I am developing interactive methods for transparent data donation methods, and investigate how social relationships are expressed through different communication patterns.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Julian_Kohne_CV_Apr_2021.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
