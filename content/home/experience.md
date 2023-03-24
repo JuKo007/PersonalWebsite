@@ -31,12 +31,21 @@ experience:
     description: |2-
         In my PhD project, I am investigating how interpersonal relationships can be quantified using         chat logs, specifically donated WhatsApp chat logs. I am developing interactive methods for           transparent, ethical and secure data donation, and investigate how social relationships are           expressed through different communication patterns.
 
+  - title: Scientific Staff Member
+    company: GESIS
+    company_url: 'https://www.gesis.org/en/institute/digital-behavioral-data'
+    location: Cologne
+    date_start: '2022-10-01'
+    date_end: ''
+    description: |2-
+        Establishing the GESIS AppKit as a new Infrastructure for collecting mobile phone survey and sensor data.
+
   - title: Scientific Advisor for Digial Behavioral Data
     company: GESIS
     company_url: 'https://www.gesis.org/en/institute/digital-behavioral-data'
     location: Cologne
     date_start: '2017-10-01'
-    date_end: ''
+    date_end: '2022-10-01'
     description: |2-
         Coordination of our institute wide efforts to expand the GESIS service portfolio to digital
         behavioral data, conceptualization of new services and acquisition of third-party funding. The         position includes a component for research in data and web science.
