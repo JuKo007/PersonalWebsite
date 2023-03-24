@@ -32,20 +32,13 @@ publication_types: ["6"]
 publication: Research Handbook on Digital Sociology
 publication_short: Digital Sociology
 
-abstract: YouTube is the largest and most popular video platform on the internet, containing
-a wide range of content, spanning from current political and societal issues to
-popular culture or niche hobbies.The activities of the producers and consumers
-of this content generate large amounts of data. These data are also of interest for
-social scientists and can, e.g, be used to study content production, reception, and
-user interactions. However, accessing and working with these data, especially in a
-reproducible and scalable fashion, can be challenging. The aim of this chapter is
-to introduce social scientists to YouTube data and highlight their potentials, while
-also making researchers aware of the practical, methodological, ethical, and legal
-challenges associated with accessing and working with these data and providing
-some suggestions on how those can be addressed. After introducing the key features
-of YouTube and how it has been studied by social scientists so far, we discuss the
-kinds of data YouTube provides as well as computational methods and tools for
-accessing and processing YouTube data with a focus on using the YouTube API. 
+abstract: YouTube is the largest and most popular video platform on the internet, containing a wide range of content, spanning from current political and societal issues to
+popular culture or niche hobbies.The activities of the producers and consumers of this content generate large amounts of data. These data are also of interest for
+social scientists and can, e.g, be used to study content production, reception, and user interactions. However, accessing and working with these data, especially in a
+reproducible and scalable fashion, can be challenging. The aim of this chapter is to introduce social scientists to YouTube data and highlight their potentials, while
+also making researchers aware of the practical, methodological, ethical, and legal challenges associated with accessing and working with these data and providing
+some suggestions on how those can be addressed. After introducing the key features of YouTube and how it has been studied by social scientists so far, we discuss the
+kinds of data YouTube provides as well as computational methods and tools for accessing and processing YouTube data with a focus on using the YouTube API. 
 
 # Summary. An optional shortened abstract.
 summary: In this chapter, we give a practical overview about working with data from YouTube, specifically, comment data from the YouTube API v3.
