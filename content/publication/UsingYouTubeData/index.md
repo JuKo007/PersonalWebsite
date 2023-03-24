@@ -32,7 +32,7 @@ publication_types: ["6"]
 publication: Research Handbook on Digital Sociology
 publication_short: Digital Sociology
 
-abstract: TGEst:
+abstract: 'Test'
 
 # Summary. An optional shortened abstract.
 summary: In this chapter, we give a practical overview about working with data from YouTube, specifically, comment data from the YouTube API v3.
