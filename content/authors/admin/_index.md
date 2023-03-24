@@ -16,7 +16,7 @@ organizations:
   url: https://www.uni-ulm.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doing research at the intersection of Social Psychology with Data Science.
+bio: Doing research at the intersection of Social Psychology and Data Science.
 
 # Interests to show in About widget
 interests:
@@ -86,4 +86,4 @@ an easy to use, transparent and secure infrastructure for collecting mobile surv
 
 As a PhD student at Ulm University, I am part of the [molecular psychology lab](https://www.uni-ulm.de/in/psy-mp/) and investigate how interpersonal relationships can be quantified using chat logs, specifically donated WhatsApp chat logs. I am developing interactive methods for transparent data donation methods, and investigate how social relationships are expressed through different communication patterns.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Julian_Kohne_CV_Nov_2022.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Julian_Kohne_CV_March_2023.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
