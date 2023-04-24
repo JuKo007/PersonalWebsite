@@ -23,6 +23,22 @@ date_format: January 2, 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://www.juliankohne.com/publication/DSGVOcertificate/DSGVOcertificate2.pdf
+  date_end: "2023-02-28"
+  date_start: "2023-02-28"
+  description: |2-
+      Workshop Contents:
+      
+      * Research Priviliges in Data Protection Law
+      * Deletion of Data
+      * Pseudonimization & Anonimization
+      * Secondary Use
+      * Research Data Management
+      * Practical Examples
+  organization: GESIS Cologne
+  organization_url: https://www.gesis.org/
+  title:  GDPR - In-depth Workshop
+  url: "https://www.gesis.org/gesis-training/home"
 - certificate_url: https://www.juliankohne.com/publication/DSGVOcertificate/DSGVOcertificate.pdf
   date_end: "2021-12-01"
   date_start: "2021-12-01"
