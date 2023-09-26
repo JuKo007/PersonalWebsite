@@ -24,8 +24,8 @@ date_format: January 2, 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.juliankohne.com/publication/SICSS/sicss_certificateofattendance_kohne.pdf
-  date_end: "2023-07-24"
-  date_start: "2023-08-03"
+  date_end: "2023-08-03"
+  date_start: "2023-07-24"
   description: |2-
       Workshop Contents:
       
