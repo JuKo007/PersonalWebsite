@@ -38,7 +38,6 @@ item:
   organization_url: https://www.lmu.de/en/
   title:  Summer Institute in Computational Social Science
   url: "https://sicss.io/2023/munich/"
-item:
 - certificate_url: https://www.juliankohne.com/publication/DSGVOcertificate/DSGVOcertificate2.pdf
   date_end: "2023-02-28"
   date_start: "2023-02-28"
