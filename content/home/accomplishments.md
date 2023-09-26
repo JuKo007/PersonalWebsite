@@ -23,6 +23,22 @@ date_format: January 2, 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://www.juliankohne.com/publication/SICSS/sicss_certificateofattendance_kohne.pdf
+  date_end: "2023-07-24"
+  date_start: "2023-08-03"
+  description: |2-
+      Workshop Contents:
+      
+      * Lectures, group problem sets, participant-led research projects
+      * Collection of Digital Trace Data
+      * Automated Text Analysis
+      * Transparent and reproducible Research
+      * Ethics
+  organization: LMU Munich
+  organization_url: https://www.lmu.de/en/
+  title:  Summer Institute in Computational Social Science
+  url: "https://sicss.io/2023/munich/"
+item:
 - certificate_url: https://www.juliankohne.com/publication/DSGVOcertificate/DSGVOcertificate2.pdf
   date_end: "2023-02-28"
   date_start: "2023-02-28"
