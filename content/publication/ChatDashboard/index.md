@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/article/10.3758/s13428-023-02276-1'
+url_pdf: 'https://www.juliankohne.com/publication/ChatDashboard/ChatDashboard2023_Kohne_Montag.pdf'
 url_code: 'https://github.com/gesiscss/WhatsR'
 url_dataset: ''
 url_poster: ''
