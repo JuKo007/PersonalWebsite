@@ -86,4 +86,4 @@ an easy to use, transparent and secure infrastructure for collecting mobile surv
 
 As a PhD student at Ulm University, I am part of the [molecular psychology lab](https://www.uni-ulm.de/in/psy-mp/) and investigate how interpersonal relationships can be quantified using chat logs, specifically donated WhatsApp chat logs. I am developing interactive methods for transparent data donations, and investigate how social relationships are expressed through different communication patterns.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Julian_Kohne_CV_March_2023.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Julian_Kohne_CV_mar_2024.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
