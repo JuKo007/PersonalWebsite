@@ -23,6 +23,21 @@ date_format: January 2, 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://www.juliankohne.com/publication/DeepLearning/Deep_learning_certificate.pdf
+  date_end: "2024-04-26"
+  date_start: "2024-04-24"
+  description: |2-
+      Workshop Contents:
+      
+      * Deep Learning and Logit Regression
+      * Hyperparameter tuning
+      * Deep learning applictions with Keras in R
+      * Recurrent Neural Networks and LSTM Neural Networks
+      * Convolutional Neural Networks
+  organization: GESIS
+  organization_url: https://www.gesis.org/home
+  title:  Introduction to Deep Learning in R
+  url: "https://sicss.io/2023/munich/"
 - certificate_url: https://www.juliankohne.com/publication/SICSS/sicss_certificateofattendance_kohne.pdf
   date_end: "2023-08-03"
   date_start: "2023-07-24"
